@@ -1,12 +1,12 @@
 package de.michaeldorner;
 
-public class I extends Base {
+public class M extends Base {
 
-	public I() {
-		super(Type.I, Tags.I);
+	public M() {
+		super(Type.M, Tags.M);
 	}
 
-	public void doI() {
+	public void doM() {
 		i = i * -1;
 	}
 

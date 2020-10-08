@@ -3,7 +3,7 @@ package de.michaeldorner;
 public class E extends Base {
 
 	public E() {
-		super(Type.E);
+		super(Type.E, Tags.E);
 	}
 
 	public void doE() {
